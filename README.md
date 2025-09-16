@@ -4,7 +4,7 @@ A modern and responsive **landing page** for a travel agency.
 It showcases services like **Holiday Packages, Adventure Trips, and Hotel Booking** with a clean, professional design.  
 
 ## 🚀 Live Demo  
-👉 (View Live Demo) [https://khushikumari94.github.io/Task-2/]  
+👉 (View Live Demo) [ https://swimmyrani12.github.io/Task-2/]  
 
 
 ## ✨ Features
